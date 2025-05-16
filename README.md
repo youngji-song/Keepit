@@ -1,3 +1,3 @@
-![Momo] (main/static/main/images/piggy.png)
+![Momo](main/static/main/images/Momo.png)
 
 **Keepit**
